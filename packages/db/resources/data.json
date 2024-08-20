@@ -1,0 +1,64 @@
+{
+  "auctions": [
+    {
+      "id": "1",
+      "name": "Leilão de carros"
+    },
+    {
+      "id": "2",
+      "name": "Leilão de imóveis"
+    }
+  ],
+  "lots": [
+    {
+      "id": "1",
+      "auctionId": "1",
+      "title": "Chevrolet Camaro",
+      "description": "0km, 1969, 6 cilindros, 350cv",
+      "startingPrice": 1000,
+      "currentBid": null,
+      "currentBidder": null,
+      "endsAt": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "auctionId": "1",
+      "title": "Fiat 147",
+      "description": "0km, 1972, 4 cilindros, 1.4l",
+      "startingPrice": 7500,
+      "currentBid": null,
+      "currentBidder": null,
+      "endsAt": "2025-01-01T00:01:00Z"
+    },
+    {
+      "id": "3",
+      "auctionId": "2",
+      "title": "Casa em São Paulo",
+      "description": "Casa em São Paulo, 3 quartos, 2 banheiros, 1 vaga",
+      "startingPrice": 1000000,
+      "currentBid": null,
+      "currentBidder": null,
+      "endsAt": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "auctionId": "2",
+      "title": "Casa em Brasília",
+      "description": "Casa em Brasília, 3 quartos, 2 banheiros, 1 vaga",
+      "startingPrice": 500000,
+      "currentBid": null,
+      "currentBidder": null,
+      "endsAt": "2025-01-01T00:01:00Z"
+    },
+    {
+      "id": "5",
+      "auctionId": "2",
+      "title": "Casa em Goiânia",
+      "description": "Casa em Goiânia, 5 quartos, 3 banheiros, 2 vagas",
+      "startingPrice": 100000,
+      "currentBid": null,
+      "currentBidder": null,
+      "endsAt": "2025-01-01T00:02:00Z"
+    }
+  ]
+}

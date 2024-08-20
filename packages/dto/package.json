@@ -1,0 +1,15 @@
+{
+  "name": "@kwara/dto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Raimundo Onetto",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}

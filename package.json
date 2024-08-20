@@ -1,0 +1,17 @@
+{
+  "name": "kwara-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo run dev --concurrency=20 --no-cache",
+   "check-types": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Raimundo Onetto",
+  "license": "ISC",
+  "dependencies": {
+    "turbo": "^2.0.14"
+  },
+  "packageManager": "pnpm@9.1.0"
+}
