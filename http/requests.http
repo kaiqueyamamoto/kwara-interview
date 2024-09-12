@@ -1,0 +1,8 @@
+### GET request to example server
+GET http://127.0.0.1:9000/
+
+### GET All Auctions
+GET http://127.0.0.1:9000/auctions
+
+###
+GET http://127.0.0.1:9000/auctions/1
